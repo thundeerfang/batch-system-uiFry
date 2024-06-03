@@ -1,9 +1,10 @@
 # Ui-Fry Landing Page
 This landing page serves as a responsive interface tailored for a mobile application, meticulously crafted using a combination of HTML, CSS, and JavaScript. Its design seamlessly integrates aesthetics with functionality, ensuring a visually captivating and user-friendly experience across various devices, be it desktops or mobiles.
 
-# batch-system-uifry
-
-This landing page serves as a responsive interface tailored for a mobile application, meticulously crafted using a combination of HTML, CSS, and JavaScript. Its design seamlessly integrates aesthetics with functionality, ensuring a visually captivating and user-friendly experience across various devices, be it desktops or mobiles.
+## Design Reference
+* Figma Link: Figma Link
+* Figma Dev Mode Link: Figma Dev Mode Link
+* Video Explaination : Video Link
 
 ## Requirements
 - **Visual Studio Code**: This project assumes the use of Visual Studio Code as the preferred text editor. However, any text editor with live server support can be used.
